@@ -6,3 +6,4 @@ hostname CN_LAB
 
 exit (to exit the global configuration)
 
+enable secret class
